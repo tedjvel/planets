@@ -1,3 +1,6 @@
 It is cold and dry, but everything is my favoruite colour.
 Two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
+
+Overall, the decision was made to make Venus a base instead of Mars because
+of the higher gravity and more suitable upper atmospheric pressures.
